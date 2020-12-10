@@ -32,7 +32,6 @@ description='''
 This is a long form description of the mod. You can write whatever you want here
 
 This mod is an addon for Create that adds a handheld redstone link, a highly requested freature. This may just turn into a testing mod that I'll publish as a pr, but we'll see.
-Psst, CSH if you see this don't tell anybody I'm working on this xD
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.examplemod]] #optional
